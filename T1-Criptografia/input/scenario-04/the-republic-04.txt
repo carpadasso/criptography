@@ -88,7 +88,7 @@ PREFACE.
 IN publishing a third edition of the Republic of Plato (originally
 included in my edition of Plato's works), I have to acknowledge the
 assistance of several friends, especially of my secretary, Mr. Matthew
-Knight, now residing for his health at Davôs, and of Mr. Frank Fletcher,
+Knight, now residing for his health at Davos, and of Mr. Frank Fletcher,
 Exhibitioner of Balliol College. To their accuracy and scholarship I am
 under great obligations. The excellent index, in which are contained
 references to the other dialogues as well as to the Republic, is entirely
@@ -190,7 +190,7 @@ other state of Hellas in greatness!' or, more probably, attributing the
 victory to the ancient good order of Athens and to the favour of Apollo
 and Athene (cp. Introd. to Critias).
 
-Again, Plato may be regarded as the 'captain' ([Greek: a)rchêgo/s]) or
+Again, Plato may be regarded as the 'captain' ([Greek: a)rchego/s]) or
 leader of a goodly band of followers; for in the Republic is to be found
 the original of Cicero's De Republica, of St. Augustine's City of God, of
 the Utopia of Sir Thomas More, and of the numerous other imaginary States
@@ -636,7 +636,7 @@ slight mention is made of the daemonium, or internal sign, which is
 alluded to by Socrates as a phenomenon peculiar to himself (vi. 496 C). A
 real element of Socratic teaching, which is more prominent in the Republic
 than in any of the other Dialogues of Plato, is the use of example and
-illustration ([Greek: ta\ phortika\ au)tô=| prosphe/rontes], iv. 442 E):
+illustration ([Greek: ta\ phortika\ au)to=| prosphe/rontes], iv. 442 E):
 'Let us apply the test of common instances.' 'You,' says Adeimantus,
 ironically, in the sixth book, 'are so unaccustomed to speak in images.'
 And this use of examples or images, though truly Socratic in origin, is
@@ -799,7 +799,7 @@ the Christian precept of forgiveness of injuries. Similar words are
 applied by the Persian mystic poet to the Divine being when the
 questioning spirit is stirred within him:--'If because I do evil, Thou
 punishest me by evil, what is the difference between Thee and me?' In this
-both Plato and Khèyam rise above the level of many Christian (?)
+both Plato and Kheyam rise above the level of many Christian (?)
 theologians. The first definition of justice easily passes into the
 second; for the simple words 'to speak the truth and pay your debts' is
 substituted the more abstract 'to do good to your friends and harm to your
@@ -1541,7 +1541,7 @@ without any palpable inconsistency there existed side by side two forms of
 religion, the tradition inherited or invented by the poets and the
 customary worship of the temple; on the other hand, there was the religion
 of the philosopher, who was dwelling in the heaven of ideas, but did not
-therefore refuse to offer a cock to Æsculapius, or to be seen saying his
+therefore refuse to offer a cock to sculapius, or to be seen saying his
 prayers at the rising of the sun. At length the antagonism between the
 popular and philosophical religion, never so great among the Greeks as in
 our own age, disappeared, and was only felt like the difference between
@@ -1947,7 +1947,7 @@ interpretation.
 Notwithstanding the fascination which the word 'classical' exercises over
 us, we can hardly maintain that this rule is observed in all the Greek
 poetry which has come down to us. We cannot deny that the thought often
-exceeds the power of lucid expression in Æschylus and Pindar; or that
+exceeds the power of lucid expression in schylus and Pindar; or that
 rhetoric gets the better of the thought in the Sophist-poet Euripides.
 Only perhaps in Sophocles is there a perfect harmony of the two; in him
 alone do we find a grace of language like the beauty of a Greek statue, in
@@ -2273,7 +2273,7 @@ our realms....
 
 [Sidenote: _Republic IV._ Introduction.]
 
-Here, as Socrates would say, let us 'reflect on' ([Greek: skopô=men]) what
+Here, as Socrates would say, let us 'reflect on' ([Greek: skopo=men]) what
 has preceded: thus far we have spoken not of the happiness of the
 citizens, but only of the well-being of the State. They may be the
 happiest of men, but our principal aim in founding the State was not to
@@ -2627,11 +2627,11 @@ great actions. It is the 'lion heart' with which the reason makes a treaty
 indignant at wrong or falsehood, but does not, like Love in the Symposium
 and Phaedrus, aspire to the vision of Truth or Good. It is the peremptory
 military spirit which prevails in the government of honour. It differs
-from anger ([Greek: o)rgê/]), this latter term having no accessory notion
+from anger ([Greek: o)rge/]), this latter term having no accessory notion
 of righteous indignation. Although Aristotle has retained the word, yet we
 may observe that 'passion' ([Greek: thumo/s]) has with him lost its
 affinity to the rational and has become indistinguishable from 'anger'
-([Greek: o)rgê/]). And to this vernacular use Plato himself in the Laws
+([Greek: o)rge/]). And to this vernacular use Plato himself in the Laws
 seems to revert (ix. 836 B), though not always (v. 731 A). By modern
 philosophy too, as well as in our ordinary conversation, the words anger
 or passion are employed almost exclusively in a bad sense; there is no
@@ -2644,7 +2644,7 @@ this is the spirit of a philosopher or martyr rather than of a criminal.
 
 We may observe (p. 444 D, E) how nearly Plato approaches Aristotle's
 famous thesis, that 'good actions produce good habits.' The words 'as
-healthy practices ([Greek: e)pitêdeu/mata]) produce health, so do just
+healthy practices ([Greek: e)pitedeu/mata]) produce health, so do just
 practices produce justice,' have a sound very like the Nicomachean Ethics.
 But we note also that an incidental remark in Plato has become a
 far-reaching principle in Aristotle, and an inseparable part of a great
@@ -4319,10 +4319,10 @@ the eyesight which is liable to two kinds of disorders.
 Nor have we any difficulty in drawing a parallel between the young
 Athenian in the fifth century before Christ who became unsettled by new
 ideas, and the student of a modern University who has been the subject of
-a similar 'aufklärung.' We too observe that when young men begin to
+a similar 'aufklarung.' We too observe that when young men begin to
 criticise customary beliefs, or to analyse the constitution of human
 nature, they are apt to lose hold of solid principle ([Greek: a(/pan to\
-be/baion au)tô=n e)xoi/chetai]). They are like trees which have been
+be/baion au)to=n e)xoi/chetai]). They are like trees which have been
 frequently transplanted. The earth about them is loose, and they have no
 roots reaching far into the soil. They 'light upon every flower,'
 following their own wayward wills, or because the wind blows them. They
@@ -4894,7 +4894,7 @@ apparently known to Aristotle, is referred to by Cicero as a proverb of
 obscurity (Ep. ad Att. vii. 13, 5). And some have imagined that there is
 no answer to the puzzle, and that Plato has been practising upon his
 readers. But such a deception as this is inconsistent with the manner in
-which Aristotle speaks of the number (Pol. v. 12, § 7), and would have
+which Aristotle speaks of the number (Pol. v. 12,  7), and would have
 been ridiculous to any reader of the Republic who was acquainted with
 Greek mathematics. As little reason is there for supposing that Plato
 intentionally used obscure expressions; the obscurity arises from our want
@@ -4907,14 +4907,14 @@ Our hope of understanding the passage depends principally on an accurate
 study of the words themselves; on which a faint light is thrown by the
 parallel passage in the ninth book. Another help is the allusion in
 Aristotle, who makes the important remark that the latter part of the
-passage (from [Greek: ô(=n e)pi/tritos puthmê\n, k.t.l.]) describes a
+passage (from [Greek: o(=n e)pi/tritos puthme\n, k.t.l.]) describes a
 solid figure. Some further clue may be gathered from the appearance of the
 Pythagorean triangle, which is denoted by the numbers 3, 4, 5, and in
 which, as in every right-angled {cxxxi} triangle, the squares of the two
 lesser sides equal the square of the hypotenuse (3^2 + 4^2 = 5^2, or
 9 + 16 = 25).
 
-[Footnote 2: Pol. v. 12, § 8:--'He only says that nothing is abiding, but
+[Footnote 2: Pol. v. 12,  8:--'He only says that nothing is abiding, but
 that all things change in a certain cycle; and that the origin of the
 change is a base of numbers which are in the ratio of 4 : 3; and this when
 combined with a figure of five gives two harmonies; he means when the
@@ -4958,7 +4958,7 @@ as follows. A perfect number ([Greek: te/leios a)rithmo/s]), as already
 stated, is one which is equal to the sum of its divisors. Thus 6, which is
 the first perfect or cyclical number, = 1 + 2 + 3. The words [Greek:
 o)/roi], 'terms' or 'notes,' and [Greek: a)posta/seis], 'intervals,' are
-applicable to music as well as to number and figure. [Greek: Prô/tô|] is
+applicable to music as well as to number and figure. [Greek: Pro/to|] is
 the 'base' on which the whole calculation depends, or the 'lowest term'
 from which it can be worked out. The words [Greek: duna/menai/ te kai\
 dunasteuo/menoi] have been variously translated--'squared and cubed'
@@ -4973,7 +4973,7 @@ exceeded by the sum of their divisors: e.g. 12 and 18 are less than 16 and
 21. 'Waning' ([Greek: phthi/nontes]) numbers, called also 'decreasing'
 ([Greek: e)llipei=s]) are those which succeed the sum of their divisors:
 e.g. 8 and 27 exceed 7 and 13. The words translated 'commensurable and
-agreeable to one another' ([Greek: prosê/gora kai\ r(êta/]) seem to be
+agreeable to one another' ([Greek: prose/gora kai\ r(eta/]) seem to be
 different ways of describing the same relation, with more or less
 precision. They are equivalent to 'expressible in terms having the same
 relation to one another,' like the series 8, 12, 18, 27, each of which
@@ -4982,11 +4982,11 @@ numbers is in the relation of 1 and 1/2 to the preceding. The 'base,' or
 musical fourth. [Greek: A(rmoni/a] is a 'proportion' of numbers as of
 musical notes, applied either to the parts or factors of a single number
 or to the relation of one number to another. The first harmony is a
-'square' number ([Greek: i)/sên i)sa/kis]); the second harmony is an
-'oblong' number ([Greek: promê/kê]), i.e. a number representing a figure
+'square' number ([Greek: i)/sen i)sa/kis]); the second harmony is an
+'oblong' number ([Greek: prome/ke]), i.e. a number representing a figure
 of which the opposite sides only are equal. [Greek: A)rithmoi\ a)po\
-diame/trôn] = 'numbers squared from' or 'upon diameters'; [Greek: r(êtô=n]
-= 'rational,' i.e. omitting fractions, [Greek: a)r)r(ê/tôn], 'irrational,'
+diame/tron] = 'numbers squared from' or 'upon diameters'; [Greek: r(eto=n]
+= 'rational,' i.e. omitting fractions, [Greek: a)r)r(e/ton], 'irrational,'
 i.e. including fractions; e.g. 49 is a square of the rational diameter of
 a figure the side of which = 5: 50, of an irrational diameter of the same.
 For several of the explanations here given and for a good deal besides
@@ -5000,7 +5000,7 @@ the number of the state, he proceeds: 'The period of the world is defined
 by the perfect number 6, that of the state by the cube of that number or
 216, which is the product of the last pair of terms in the Platonic
 Tetractys[3]; and if we take this as the basis of our computation, we
-shall have two cube numbers ([Greek: au)xê/seis duna/menai/ te kai\
+shall have two cube numbers ([Greek: au)xe/seis duna/menai/ te kai\
 dunasteuo/menai]), viz. 8 and 27; and the mean proportionals between
 these, viz. 12 and 18, will furnish three intervals and four terms, and
 these terms and intervals stand related to one another in the
@@ -5014,7 +5014,7 @@ denote the ratio of the two last pairs of terms in the Platonic Tetractys,
 the former multiplied by the square, the latter by the cube of the number
 10, the sum of the first four digits which constitute the Platonic
 Tetractys.' The two [Greek: a(rmoni/ai] he elsewhere explains as follows:
-'The first [Greek: a(rmoni/a] is [Greek: i)/sên i)sa/kis e(kato\n
+'The first [Greek: a(rmoni/a] is [Greek: i)/sen i)sa/kis e(kato\n
 tosauta/kis], in other words (4/3 x 5)^2 = 100 x 2^2/3^2. The second
 [Greek: a(rmoni/a], a cube of the same root, is described as 100
 multiplied ([Greek: a]) by the rational diameter of 5 diminished by unity,
@@ -5032,8 +5032,8 @@ the second harmony, 8000/27.'
 The reasons which have inclined me to agree with Dr. Donaldson and also
 with Schleiermacher in supposing that 216 is the Platonic number of births
 are: (1) that it coincides with the description of the number given in the
-first part of the passage ([Greek: e)n ô(=| prô/tô| ... {cxxxiv}
-a)pe/phêsan]): (2) that the number 216 with its permutations would have
+first part of the passage ([Greek: e)n o(=| pro/to| ... {cxxxiv}
+a)pe/phesan]): (2) that the number 216 with its permutations would have
 been familiar to a Greek mathematician, though unfamiliar to us: (3) that
 216 is the cube of 6, and also the sum of 3^3, 4^3, 5^3, the numbers 3, 4,
 5 representing the Pythagorean triangle, of which the sides when squared
@@ -5046,21 +5046,21 @@ cubes of 2 and 3, which are the two last terms in the Platonic Tetractys:
 373 E), Proclus (super prima Eucl. iv. p. 111), and Quintilian (de Musica
 iii. p. 152) to be contained in this passage, so that the tradition of the
 school seems to point in the same direction: (8) that the Pythagorean
-triangle is called also the figure of marriage ([Greek: gamê/lion
+triangle is called also the figure of marriage ([Greek: game/lion
 dia/gramma]).
 
 But though agreeing with Dr. Donaldson thus far, I see no reason for
 supposing, as he does, that the first or perfect number is the world, the
 human or imperfect number the state; nor has he given any proof that the
-second harmony is a cube. Nor do I think that [Greek: a)r)r(ê/tôn de\
+second harmony is a cube. Nor do I think that [Greek: a)r)r(e/ton de\
 duei=n] can mean 'two incommensurables,' which he arbitrarily assumes to
 be 2 and 3, but rather, as the preceding clause implies, [Greek: duei=n
-a)rithmoi=n a)po\ a)r)r(ê/tôn diame/trôn pempa/dos], i.e. two square
+a)rithmoi=n a)po\ a)r)r(e/ton diame/tron pempa/dos], i.e. two square
 numbers based upon irrational diameters of a figure the side of which is
 5 = 50 x 2.
 
 The greatest objection to the translation is the sense given to the words
-[Greek: e)pi/tritos puthmê/n k.t.l.], 'a base of three with a third added
+[Greek: e)pi/tritos puthme/n k.t.l.], 'a base of three with a third added
 to it, multiplied by 5.' In this somewhat forced manner Plato introduces
 once more the numbers of the Pythagorean triangle. But the coincidences in
 the numbers which follow are in favour of the explanation. The first
@@ -5411,7 +5411,7 @@ pleasures of smell, and also the pleasures of hope and anticipation. In
 the previous book (pp. 558, 559) he had made the distinction between
 necessary and unnecessary pleasure, which is repeated by Aristotle, and he
 now observes that there are a further class of 'wild beast' pleasures,
-corresponding to Aristotle's [Greek: thêrio/tês]. He dwells upon the
+corresponding to Aristotle's [Greek: therio/tes]. He dwells upon the
 relative and unreal character of sensual pleasures and the illusion which
 arises out of the contrast of pleasure and pain, pointing out the
 superiority of the pleasures of reason, which are at rest, over the
@@ -5906,13 +5906,13 @@ last phase of the tragic drama, and in him Plato saw the friend and
 apologist of tyrants, and the Sophist of tragedy. The old comedy was
 almost extinct; the new had not yet arisen. Dramatic and lyric poetry,
 like every other branch of Greek literature, was falling under the power
-of rhetoric. There was no 'second or third' to Æschylus and {clviii}
+of rhetoric. There was no 'second or third' to schylus and {clviii}
 Sophocles in the generation which followed them. Aristophanes, in one of
 his later comedies (Frogs, 89 foll.), speaks of 'thousands of
 tragedy-making prattlers,' whose attempts at poetry he compares to the
 chirping of swallows; 'their garrulity went far beyond Euripides,'--'they
 appeared once upon the stage, and there was an end of them.' To a man of
-genius who had a real appreciation of the godlike Æschylus and the noble
+genius who had a real appreciation of the godlike schylus and the noble
 and gentle Sophocles, though disagreeing with some parts of their
 'theology' (Rep. ii. 380), these 'minor poets' must have been contemptible
 and intolerable. There is no feeling stronger in the dialogues of Plato
@@ -6167,7 +6167,7 @@ Dante or Petrarch; and many types of manly and womanly beauty might appear
 among us, rising above the ordinary level of humanity, and many lives
 which were like poems (Laws vii. 817 B), be not only written, but lived by
 us. A few such strains have been heard among men in the tragedies of
-Æeschylus and Sophocles, whom Plato quotes, not, as Homer is quoted by
+eschylus and Sophocles, whom Plato quotes, not, as Homer is quoted by
 him, in irony, but with deep and serious approval,--in the poetry of
 Milton and Wordsworth, and in passages of other English poets,--first and
 above all in the Hebrew prophets and psalmists. Shakespeare has taught us
@@ -6835,7 +6835,7 @@ and still less of the mind, but the mind takes care of both. In all human
 action not that which is common to man and the animals is the
 characteristic element, but that which distinguishes him from them. Even
 if we admit the physical basis, and resolve all virtue into health of body
-'_la façon que notre sang circule_,' still on merely physical grounds we
+'_la facon que notre sang circule_,' still on merely physical grounds we
 must come back to ideas. Mind and reason and duty and conscience, under
 these or other names, are always reappearing. There cannot be health of
 body without health of mind; nor health of mind without the sense of duty
@@ -6902,7 +6902,7 @@ man two thousand or three thousand years ago. Of what his condition was
 when removed to a distance 200,000 or 300,000 years, when the majority of
 mankind were lower and nearer the animals than any tribe now existing upon
 the earth, we cannot even entertain conjecture. Plato (Laws iii. 676
-foll.) and Aristotle (Metaph. xi. 8, §§ 19, 20) may have been more right
+foll.) and Aristotle (Metaph. xi. 8,  19, 20) may have been more right
 than we imagine in supposing that some forms of civilisation were
 discovered and lost several times over. If we cannot argue that all
 barbarism is a degraded civilization, neither can we set any limits to the
@@ -7052,7 +7052,7 @@ occurred to him that the greater part of them, according to universal
 experience, would have perished. For children can only be brought up in
 families. There is a subtle sympathy between the mother and the child
 which cannot be supplied by other mothers, or by 'strong nurses one or
-more' (Laws vii. 789 E). If Plato's 'pen' was as fatal as the Crèches of
+more' (Laws vii. 789 E). If Plato's 'pen' was as fatal as the Creches of
 Paris, or the foundling hospital of Dublin, more than nine-tenths of his
 children would have perished. There would have been no need to expose or
 put out of the way the weaklier children, for they would have {cxc} died
@@ -7536,7 +7536,7 @@ both. And doubtless the mind may exercise a very great and paramount
 influence over the body, if exerted not at particular moments and by fits
 and starts, but continuously, in making preparation for the whole of life.
 Other Greek writers saw the mischievous tendency of Spartan discipline
-(Arist. Pol. viii. 4, § 1 foll.; Thuc. ii. 37, 39). But only Plato
+(Arist. Pol. viii. 4,  1 foll.; Thuc. ii. 37, 39). But only Plato
 recognized the fundamental error on which the practice was based.
 
 The subject of gymnastic leads Plato to the sister subject of medicine,
@@ -7553,7 +7553,7 @@ counterbalanced by the disuse of regular training. Until lately they have
 hardly thought of air and water, the importance of which was well
 understood by the ancients; as Aristotle remarks, 'Air and water, being
 the elements {cciv} which we most use, have the greatest effect upon
-health' (Polit. vii. 11, § 4.). For ages physicians have been under the
+health' (Polit. vii. 11,  4.). For ages physicians have been under the
 dominion of prejudices which have only recently given way; and now there
 are as many opinions in medicine as in theology, and an equal degree of
 scepticism and some want of toleration about both. Plato has several good
@@ -7620,7 +7620,7 @@ by geometry are borrowed from the sensible world (vi. 510, 511). He seeks
 to find the ultimate ground of mathematical ideas in the idea of good,
 though he does not satisfactorily explain the connexion between them; and
 in his conception of the relation of ideas to numbers, he falls very far
-short of the definiteness attributed to him by Aristotle (Met. i. 8, § 24;
+short of the definiteness attributed to him by Aristotle (Met. i. 8,  24;
 ix. 17). But if he fails to recognize the true limits of mathematics, he
 also reaches a point beyond them; in his view, ideas of number become
 secondary to a higher conception of knowledge. The dialectician is as much
@@ -7957,7 +7957,7 @@ the immortality of the soul is first mentioned in xii. 959, 967; the
 person of Socrates has altogether disappeared. The community of women and
 children is renounced; the institution of common or public meals for women
 (Laws vi. 781) is for the first time introduced {ccxv} (Ar. Pol. ii. 6,
-§ 5). (6) There remains in the Laws the old enmity to the poets (vii. 817),
+ 5). (6) There remains in the Laws the old enmity to the poets (vii. 817),
 who are ironically saluted in high-flown terms, and, at the same time, are
 peremptorily ordered out of the city, if they are not willing to submit
 their poems to the censorship of the magistrates (cp. Rep. iii. 398).
@@ -7970,7 +7970,7 @@ termed the modern element in Plato than almost anything in the Republic.
 
 The relation of the two works to one another is very well given:
 
-(i) by Aristotle in the Politics (ii. 6, §§ 1-5) from the side of the
+(i) by Aristotle in the Politics (ii. 6,  1-5) from the side of the
 Laws:--
 
 'The same, or nearly the same, objections apply to Plato's later work, the
@@ -8148,7 +8148,7 @@ belongs to an age which has passed away. But it contains many fine
 passages and thoughts which are for all time.
 
 The short treatise de Monarchia of Dante is by far the most remarkable of
-mediæval ideals, and bears the impress of the great genius in whom Italy
+medival ideals, and bears the impress of the great genius in whom Italy
 and the Middle Ages are so vividly reflected. It is the vision of an
 Universal Empire, which is supposed to be the natural and necessary
 government of the world, having a divine authority distinct from the
@@ -8157,7 +8157,7 @@ Empire sitting crowned upon the grave thereof,' but the legitimate heir
 and successor of it, justified by the ancient virtues of the Romans and
 the beneficence of their rule. Their right to be the governors of the
 world is also confirmed by the testimony of miracles, and acknowledged by
-St. Paul when he appealed to Cæsar, and even more emphatically by Christ
+St. Paul when he appealed to Csar, and even more emphatically by Christ
 Himself, Who could not have made atonement for the sins of men if He had
 not been condemned by a divinely authorized tribunal. The necessity for
 the establishment of an Universal Empire is proved partly by a priori
@@ -8456,7 +8456,7 @@ Sir Thomas More, is the deep feeling which is shown by the writer, of the
 misery and ignorance prevailing among the lower classes in his own time.
 Campanella takes note of Aristotle's answer to Plato's community of
 property, that in a society where all things are common, no individual
-would have any motive to work (Arist. Pol. ii. 5, § 6): he replies, that
+would have any motive to work (Arist. Pol. ii. 5,  6): he replies, that
 his citizens being happy and contented in themselves (they are required to
 work only four hours a day), will have greater regard for their fellows
 than exists among men at present. He thinks, like Plato, that if he
@@ -10638,7 +10638,7 @@ touching what was another's, he would be thought by the lookers-on to be a
 faces, and keep up appearances with one another from a fear that they too
 might suffer injustice. Enough of this.
 
-[Footnote 1: Reading [Greek: Gu/nê| tô=| Kroi/sou tou= Ludou= progo/nô|.]
+[Footnote 1: Reading [Greek: Gu/ne| to=| Kroi/sou tou= Ludou= progo/no|.]
 
 [Sidenote: The unjust to be clothed with power and reputation.]
 
@@ -15594,7 +15594,7 @@ desires when reason decides that she should not be opposed[3], is a sort
 of thing which I believe that you never observed occurring in yourself,
 nor, as I should imagine, in any one else?
 
-[Footnote 3: Reading [Greek: mê\ dei=n a)ntipra/tein], without a comma
+[Footnote 3: Reading [Greek: me\ dei=n a)ntipra/tein], without a comma
 after [Greek: dei=n].]
 
 Certainly not.
@@ -15728,12 +15728,12 @@ concupiscent soul, no longer confined to her own sphere, should attempt to
 enslave and rule those who are not her natural-born subjects, and overturn
 the whole life of man?
 
-[Footnote 5: Reading [Greek: prostatê/seton] with Bekker; or, if the
-reading [Greek: prostê/seton], which is found in the MSS., be adopted,
+[Footnote 5: Reading [Greek: prostate/seton] with Bekker; or, if the
+reading [Greek: proste/seton], which is found in the MSS., be adopted,
 then the nominative must be supplied from the previous sentence: 'Music
 and gymnastic will place in authority over ...' This is very awkward, and
 the awkwardness is increased by the necessity of changing the subject at
-[Greek: têrê/seton].]
+[Greek: tere/seton].]
 
 Very true, he said.
 
@@ -16029,7 +16029,7 @@ You, he said.
 
 *449C* I repeated[1], Why am I especially not to be let off?
 
-[Footnote 1: Reading [Greek: e)/ti e)gô\ ei)=pon].]
+[Footnote 1: Reading [Greek: e)/ti e)go\ ei)=pon].]
 
 [Sidenote: The saying 'Friends have all things in common' is an
 insufficient solution of the problem.]
@@ -16123,10 +16123,10 @@ be a deceiver about beauty or goodness or justice in the matter of
 laws[2]. And that is a risk which I would rather run among enemies than
 among friends, and therefore you do well to encourage *451B* me[3].
 
-[Footnote 2: Or inserting [Greek: kai\] before [Greek: nomi/môn]: 'a
+[Footnote 2: Or inserting [Greek: kai\] before [Greek: nomi/mon]: 'a
 deceiver about beauty or goodness or principles of justice or law.']
 
-[Footnote 3: Reading [Greek: ô(/ste eu)= me paramuthei=].]
+[Footnote 3: Reading [Greek: o(/ste eu)= me paramuthei=].]
 
 Glaucon laughed and said: Well then, Socrates, in case you and your
 argument do us any serious injury you shall be acquitted beforehand of the
@@ -16344,7 +16344,7 @@ pursuit in which the individual is engaged; we should have argued, for
 example, that a physician and one who is in mind a physician[5] may be
 said to have the same nature.
 
-[Footnote 5: Reading [Greek: i)atro\n me\n kai\ i)atriko\n tê\n psuchê\n
+[Footnote 5: Reading [Greek: i)atro\n me\n kai\ i)atriko\n te\n psuche\n
 o)/nta].]
 
 True.
@@ -17572,7 +17572,7 @@ third wave, I think you will be more considerate and will acknowledge that
 some fear and hesitation was natural respecting a proposal so extraordinary
 as that which I have now to state and investigate.
 
-[Footnote 10: Reading [Greek: straggeuome/nô|].]
+[Footnote 10: Reading [Greek: straggeuome/no|].]
 
 The more appeals of this sort which you make, he said, the *472B* more
 determined are we that you shall tell us how such a State is possible:
@@ -18486,7 +18486,7 @@ of their calling[1]. Now in vessels which are in a state of mutiny and by
 sailors who are mutineers, how will the true pilot be regarded? Will he
 not be called by them a prater, a star-gazer, a good-for-nothing?
 
-[Footnote 1: Or, applying [Greek: o(/pôs de\ kubernê/sei] to the
+[Footnote 1: Or, applying [Greek: o(/pos de\ kuberne/sei] to the
 mutineers, 'But only understanding ([Greek: e)pai+/ontas]) that he (the
 mutinous pilot) must rule in spite of other people, never considering that
 there is an art of command which may be practised in combination with the
@@ -18794,7 +18794,7 @@ reasons are utterly ludicrous which they give in confirmation of their own
 notions about the honourable and good. Did you ever hear any of them which
 were not?
 
-[Footnote 3: Putting a comma after [Greek: tô=n a)nangkai/ôn].]
+[Footnote 3: Putting a comma after [Greek: to=n a)nangkai/on].]
 
 *493E* No, nor am I likely to hear.
 
@@ -18939,7 +18939,7 @@ bastard?
 
 There can be no question of it.
 
-[Sidenote: The _mésalliance_ of philosophy.]
+[Sidenote: The _mesalliance_ of philosophy.]
 
 And when persons who are unworthy of education approach philosophy and
 make an alliance with her who is in a rank above them what sort of ideas
@@ -19128,7 +19128,7 @@ of these alternatives are impossible, I see no reason to affirm: if they
 were so, we might indeed be justly ridiculed as dreamers and visionaries.
 Am I not right?
 
-[Footnote 6: Reading [Greek: katêko/ô|] or [Greek: katêko/ois].]
+[Footnote 6: Reading [Greek: kateko/o|] or [Greek: kateko/ois].]
 
 Quite right.
 
@@ -19162,7 +19162,7 @@ will be jealous of one in whom there is no jealousy? Nay, let me answer
 for you, that in a few this harsh temper may be found but not in the
 majority of mankind.
 
-[Footnote 7: Reading [Greek: ê)= kai\ e)a\n ou(/tô theô=ntai] without a
+[Footnote 7: Reading [Greek: e)= kai\ e)a\n ou(/to theo=ntai] without a
 question, and [Greek: a)lloi/an toi]: or, retaining the question and
 taking [Greek: a)lloi/an do/xan] in a new sense: 'Do you mean to say
 really that, viewing him in this light, they will be of another mind from
@@ -19480,7 +19480,7 @@ A right noble thought[9]; but do you suppose that we {205} shall refrain
 from asking you what is this highest knowledge?
 
 [Footnote 9: Or, separating [Greek: kai\ ma/la] from [Greek: a)/xion],
-'True, he said, and a noble thought': or [Greek: a)/xion to\ diano/êma]
+'True, he said, and a noble thought': or [Greek: a)/xion to\ diano/ema]
 may be a gloss.]
 
 [Sidenote: which leads upwards at last to the idea of good.]
@@ -19573,8 +19573,8 @@ Aye, I said, I knew all along that a fastidious gentleman[10] like you
 would not be contented with the thoughts of other people about these
 matters.
 
-[Footnote 10: Reading [Greek: a)nê\r kalo/s]: or reading [Greek: a)nê\r
-kalô=s], 'I quite well knew from the very first, that you, &c.']
+[Footnote 10: Reading [Greek: a)ne\r kalo/s]: or reading [Greek: a)ne\r
+kalo=s], 'I quite well knew from the very first, that you, &c.']
 
 True, Socrates; but I must say that one who like you has passed a lifetime
 in the study of philosophy should not be *506C* always repeating the
@@ -19869,7 +19869,7 @@ and goes up to a principle which is above hypotheses, making no use of
 images[14] as in the former case, but proceeding only in and through the
 ideas themselves.
 
-[Footnote 14: Reading [Greek: ô(=nper e)kei=no ei)ko/nôn].]
+[Footnote 14: Reading [Greek: o(=nper e)kei=no ei)ko/non].]
 
 I do not quite understand your meaning, he said. {212}
 
@@ -21828,7 +21828,7 @@ the sides of the Pythagorean triangle. The terms will then be 3^3, 4^3,
 [Footnote 3: Or the first a square which is 100 x 100 = 10,000. The whole
 number will then be 17,500 = a square of 100, and an oblong of 100 by 75.]
 
-[Footnote 4: Reading [Greek: promê/kê de/].]
+[Footnote 4: Reading [Greek: prome/ke de/].]
 
 [Footnote 5: Or, 'consisting of two numbers squared upon irrational
 diameters,' &c. = 100. For other explanations of the passage see
@@ -22126,7 +22126,7 @@ You mean that they would shipwreck?
 
 Yes; and is not this true of the government of anything[7]? {257}
 
-[Footnote 7: Omitting [Greek: ê)/ tinos].]
+[Footnote 7: Omitting [Greek: e)/ tinos].]
 
 I should imagine so.
 
@@ -22323,7 +22323,7 @@ You see that he is not a man of cultivation, I said.
 I imagine not, he said; had he been educated he would never have made a
 blind god director of his chorus, or given him chief honour[8].
 
-[Footnote 8: Reading [Greek: kai\ e)ti/ma ma/lista. Eu)=, ê)= d' e)gô/],
+[Footnote 8: Reading [Greek: kai\ e)ti/ma ma/lista. Eu)=, e)= d' e)go/],
 according to Schneider's excellent emendation.]
 
 Excellent! I said. Yet consider: Must we not further admit that owing to
@@ -22545,7 +22545,7 @@ charming, so there are many men to whom this State, which is spangled with
 the manners and characters of mankind, will appear to be the fairest of
 States.
 
-[Footnote 9: Omitting [Greek: ti/ mê/n; e)/phê].]
+[Footnote 9: Omitting [Greek: ti/ me/n; e)/phe].]
 
 Yes.
 
@@ -24140,7 +24140,7 @@ the heaven of pleasure? Does he not call the other pleasures necessary,
 under the idea that if there were no necessity for them, he would rather
 not have them?
 
-[Footnote 2: Reading with Grasere and Hermann [Greek: ti/ oi)ô/metha], and
+[Footnote 2: Reading with Grasere and Hermann [Greek: ti/ oi)o/metha], and
 omitting [Greek: ou)de\n], which is not found in the best MSS.]
 
 There can be no doubt of that, he replied.
@@ -25635,7 +25635,7 @@ and less, but thinks the same thing at one time great and at another
 small--he is a manufacturer of images and is very far removed from the
 truth[3].
 
-[Footnote 3: Reading [Greek: ei)dôlopoiou=nta ... a)phestô=ta].]
+[Footnote 3: Reading [Greek: ei)dolopoiou=nta ... a)phesto=ta].]
 
 Exactly.
 
@@ -26068,7 +26068,7 @@ possess her, let what has been taken from her be given back, that so she
 may win that palm of appearance which is hers also, and which she gives to
 her own.
 
-[Footnote 6: Reading [Greek: ê(mô=n].]
+[Footnote 6: Reading [Greek: e(mo=n].]
 
 *612E* The demand, he said, is just.
 
@@ -26424,7 +26424,7 @@ tame and wild who changed into one another and into corresponding human
 natures--the good into the gentle and the evil into the savage, in all
 sorts of combinations.
 
-[Footnote 9: Reading [Greek: ei)kostê/n].]
+[Footnote 9: Reading [Greek: ei)koste/n].]
 
 All the souls had now chosen their lives, and they went in the order of
 their choice to Lachesis, who sent with them the genius whom they had
@@ -26558,7 +26558,7 @@ destiny in the next world, 10. 620 D [_cp._ Phaedr. 249 B].
 
 Anticipations of pleasure and pain, 9. 584 D.
 
-Aphroditè, bound by Hephaestus, 3. 390 C.
+Aphrodite, bound by Hephaestus, 3. 390 C.
 
 Apollo, song of, at the nuptials of Thetis, 2. 383 A; Apollo and Achilles,
 3. 391 A; Chryses' prayer to, _ib._ 394 A; lord of the lyre, _ib._ 399 E;
@@ -26582,7 +26582,7 @@ Architecture, 4. 438 C; necessity of pure taste in, 3. 401.
 
 Ardiaeus, tyrant of Pamphylia, his eternal punishment, 10. 615 C, E.
 
-Ares and Aphroditè, 3. 390 C.
+Ares and Aphrodite, 3. 390 C.
 
 Argos, Agamemnon, king of, 3. 393 E.
 
@@ -26678,7 +26678,7 @@ should be pursued, _ib._ 529, 530. {342}
 
 Atalanta, chose the life of an athlete, 10. 620 B.
 
-Athené, not to be considered author of the strife between Trojans and
+Athene, not to be considered author of the strife between Trojans and
 Achaeans, 2. 379 E.
 
 Athenian confectionery, 3. 404 E.
@@ -26893,7 +26893,7 @@ Finally in the Laws_ (5. 739), _Plato while still maintaining the
 blessings of communism, recognizes the impossibility of its realization,
 and sets about the construction of a 'second-best state' in which the
 rights of property are conceded; although, according to Aristotle_ (Pol.
-ii. 6, § 4), _he gradually reverts to the ideal polity in all except a few
+ii. 6,  4), _he gradually reverts to the ideal polity in all except a few
 unimportant particulars._]
 
 Conception, the, of truth by the philosopher, 6. 490 A.
@@ -27038,7 +27038,7 @@ clearer to Plato himself when he wrote the Republic than it is to us_
 [_cp._ Introduction, p. xcii]; _but in the Sophist and Statesman it
 appears in a more definite form as a combination of analysis and synthesis
 by which we arrive at a true notion of things._ [_Cp. the_ [Greek:
-u(phêgême/nê metho/dos] _of Aristotle_ (Pol. i. 1, § 3; 8, § 1), _which is
+u(phegeme/ne metho/dos] _of Aristotle_ (Pol. i. 1,  3; 8,  1), _which is
 an analogous mode of proceeding from the parts to the whole.] In the Laws
 dialectic no longer occupies a prominent place; it is the 'old man's
 harmless amusement'_ (7. 820 C), _or, regarded more seriously, the method
@@ -27133,7 +27133,7 @@ Education. [_Education in the Republic is divided into two parts,_ (i)
 _the common education of the citizens;_ (ii) _the special education of the
 rulers._ (i) _The first, beginning with childhood in the plays of the
 children_ [_cp._ Laws 1. 643 B], _is the old Hellenic education,_ [_the_
-[Greek: katabeblême/na paideu/mata] _of Aristotle_, Pol. viii. 2, § 6],
+[Greek: katabebleme/na paideu/mata] _of Aristotle_, Pol. viii. 2,  6],
 {348}--_'music for the mind and gymnastic for the body'_ [_cp._ Laws 7.
 795 E]. _But Plato soon discovers that both are really intended for the
 benefit of the soul_ [_cp._ Laws 5. 743 D]; _and under 'music' he includes
@@ -27279,7 +27279,7 @@ Flattery, of the multitude by their leaders, in ill-ordered states, 4. 426
 Flute, the, to be rejected, 3. 399;--flute players and flute makers,
 _ib._ D; 10. 601.
 
-Folly, an inanition ([Greek: ke/nôsis]) of the soul, 9. 585 A.
+Folly, an inanition ([Greek: ke/nosis]) of the soul, 9. 585 A.
 
 Food, the condition of life and existence, 2. 369 C.
 
@@ -27415,7 +27415,7 @@ Plato adopts in the Republic is not exactly the same with that given in
 the Statesman or the Laws. Both in the Republic_ {352} _and the Statesman
 the series commences with the perfect state, which may be either monarchy
 or aristocracy, accordingly as the 'one best man' bears rule or many who
-are all 'perfect in virtue'_ [_cp._ Arist. Pol. iv. 2, § 1]. _But in the
+are all 'perfect in virtue'_ [_cp._ Arist. Pol. iv. 2,  1]. _But in the
 Republic the further succession is somewhat fancifully connected with the
 divisions of the soul. The rule of reason_ [_i.e. the perfect state_]
 _passes into timocracy, in which the 'spirited element' is predominant_
@@ -27431,7 +27431,7 @@ the one or many good has been separated, the remaining forms are
 classified accordingly as the government has or has not regard to law, and
 democracy is said to be_ (303 A) _'the worst of lawful and the best of
 lawless governments'_ (_an expression criticised by Aristotle,_ Pol. iv.
-2, § 3). _In the Laws again the subject is differently treated: monarchy
+2,  3). _In the Laws again the subject is differently treated: monarchy
 and democracy are described as 'the two mother forms,' which must be
 combined in order to produce a good state_ (3. 693), _and the Spartan and
 Cretan constitutions are therefore praised as polities in which every form
@@ -27439,12 +27439,12 @@ of government is represented_ (4. 712). _But the majority of existing
 states are mere class governments and have no regard to virtue_ (12.
 962 E). _These various ideas are nearly all reproduced or criticised in the
 Politics of Aristotle, who, however, does not employ the term 'timocracy,'
-and adds one great original conception,--the_ [Greek: mesê\ politei/a],
+and adds one great original conception,--the_ [Greek: mese\ politei/a],
 _or government of the middle class._]
 
 Governments, sometimes bought and sold, 8. 544 D.
 
-Grace ([Greek: eu)schêmosu/nê]), the effect of good rhythm accompanying
+Grace ([Greek: eu)schemosu/ne]), the effect of good rhythm accompanying
 good style, 3. 400 D; all life and every art full of grace, _ib._ 401 A.
 
 Greatness and smallness, 4. 438 B; 5. 479 B; 7. 523, 524; 9. 575 C;
@@ -27554,13 +27554,13 @@ strangers, _ib._ 469 D, 470 C [_cp._ Pol. 262 D].
 
 Hellespont, 3. 404 C.
 
-Hephaestus, binds Herè, 2. 378 D; thrown from heaven by Zeus, _ibid._;
-improperly delineated by Homer, 3. 389 A; chains Ares and Aphroditè, _ib._
+Hephaestus, binds Here, 2. 378 D; thrown from heaven by Zeus, _ibid._;
+improperly delineated by Homer, 3. 389 A; chains Ares and Aphrodite, _ib._
 390 C.
 
 Heracleitus, the 'sun of,' 6. 498 B.
 
-Herè, bound by Hephaestus, 2. 378 D; Herè and Zeus, _ibid._; 3. 390 B;
+Here, bound by Hephaestus, 2. 378 D; Here and Zeus, _ibid._; 3. 390 B;
 begged alms for the daughters of Inachus, 2. 381 D.
 
 Hermes, the star sacred to (Mercury), 10. 617 A.
@@ -27704,7 +27704,7 @@ Human interests, unimportance of, 10. 604 B (cp. 6. 486 A, _and_ Theaet.
 10. 608 D;--nature, incapable of doing many things well, 3. 395 B;
 --sacrifices, 8. 565 D. {356}
 
-Hunger, 4. 437 E, 439; an inanition ([Greek: ke/nôsis]) of the body,
+Hunger, 4. 437 E, 439; an inanition ([Greek: ke/nosis]) of the body,
 9. 585 A.
 
 Hymns, to the gods, may be allowed in the State, 10: 607 A [_cp._ Laws
@@ -27757,7 +27757,7 @@ _and_ Laws 4. 711 E; 5. 739); how to be commenced, 6. 501; 7. 540:
 --ideals, value of, 5. 472. For the ideal state, _see_ City,
 Constitution, Education, Guardians, Rulers, etc.
 
-Ignorance, nature of, 5. 477, 478; an inanition ([Greek: ke/nôsis]) of the
+Ignorance, nature of, 5. 477, 478; an inanition ([Greek: ke/nosis]) of the
 soul, 9. 585.
 
 Iliad, the style of, illustrated, 3. 392 E foll.; mentioned, _ib._ 393 A.
@@ -27787,9 +27787,9 @@ Impatience, uselessness of, 10. 604 C.
 
 Impetuosity, 6. 503 E.
 
-Inachus, Herè asks alms for the daughters of, 2. 381 D.
+Inachus, Here asks alms for the daughters of, 2. 381 D.
 
-Inanitions ([Greek: ke/nôseis]) of body and soul, 9. 585 A.
+Inanitions ([Greek: ke/noseis]) of body and soul, 9. 585 A.
 
 Incantations used by mendicant prophets, 2. 364 B; in medicine, 4. 426 A.
 
@@ -27894,7 +27894,7 @@ Socrates prove that it belongs to a higher class of goods? Socrates in
 reply proposes to construct an ideal state in which justice will be more
 easily recognised than in the individual. Justice is thus discovered to be
 the essential virtue of the state,_ (_a thesis afterwards enlarged upon by
-Aristotle_ [Pol. i. 2, § 16; iii. 13, § 3]), _the bond of the social
+Aristotle_ [Pol. i. 2,  16; iii. 13,  3]), _the bond of the social
 organization, and, like temperance in the Laws_ [3. 696, 697; 4. 709 E],
 _rather the accompaniment or condition of the virtues than a virtue in
 itself_ [_cp._ Introduction, p. lxiii]. _Expressed in an outward or
@@ -27924,7 +27924,7 @@ King, the Great, 8. 553 D:--pleasure of the king and the tyrant compared,
 
 Kisses, the reward of the brave warrior, 5. 468 C.
 
-Knowledge ([Greek: e)pistê/mê, gignô/skein]), = knowledge of ideas, 6. 484;
+Knowledge ([Greek: e)piste/me, gigno/skein]), = knowledge of ideas, 6. 484;
 --nature of, 5. 477, 478; classed among faculties, _ib._ 477; 6. 511 E;
 7. 533 E;--previous, to birth, 7. 518 C;--how far given by sense, _ib._
 529 [_cp._ Phaedo 75];--should not be acquired under compulsion, _ib._
@@ -28208,7 +28208,7 @@ women, 5. 452.
 Music. [_Music to the ancients had a far wider significance than to us. It
 was opposed to gymnastic as 'mental' to 'bodily' training, and included
 equally reading and writing, mathematics, harmony, poetry, and music
-strictly speaking: drawing, as Aristotle tells us_ (Pol. viii. 3, § 1),
+strictly speaking: drawing, as Aristotle tells us_ (Pol. viii. 3,  1),
 _was sometimes made a separate division._ I. _Music_ (_in this wider
 sense_), _Plato says, should precede gymnastic; and, according to a
 remarkable passage in the Protagoras_ (325 C), _the pupils in a Greek
@@ -28228,7 +28228,7 @@ true conceptions of good and evil. Music is a gift of the Gods to men, and
 was never intended, 'as the many foolishly and blasphemously suppose,'
 merely to give us an idle pleasure_ (Tim. 47 E; Laws 2. 654, 658 E; 7.
 802 D). _Neither should a freeman aim at attaining perfect execution_
-[_cp._ Arist. Pol. viii. 6, §§ 7, 15]: _in the Laws_ (7. 810) _we are told
+[_cp._ Arist. Pol. viii. 6,  7, 15]: _in the Laws_ (7. 810) _we are told
 that every one must go through the three years course of music, 'neither
 more nor less, whether he like or whether he dislike the study.' Both
 instruments and music are to be of a simple character: in the Republic
@@ -28732,7 +28732,7 @@ Scamander, beleaguered by Achilles, 3. 391 B.
 
 Scepticism, danger of, 7. 538, 539.
 
-Science ([Greek: e)pistê/mê]), a division of the intellectual world, 7.
+Science ([Greek: e)piste/me]), a division of the intellectual world, 7.
 533 E (cp. 6. 511);--the sciences distinguished by their object, 4. 438
 [_cp._ Charm. 171]; not to be studied with a view to utility only, 7.
 527 A, 529, 530; their unity, _ib._ 531; use hypotheses, _ib._ 533;
@@ -28891,7 +28891,7 @@ which, as in so many distinctions of ancient philosophers, has outrun
 fact, and are further illustrated and explained by the allegory of the
 cave in Book VII_ (_see_ Introduction, p. xciv).--_The pre-existence and
 the immortality of the soul are assumed. The doctrine of [Greek:
-a)na/mnêsis] or 'remembrance of a previous birth' is not so much dwelt
+a)na/mnesis] or 'remembrance of a previous birth' is not so much dwelt
 upon as in the Meno, Phaedo, or Phaedrus, neither is it made a proof of
 immortality_ (Meno 86; Phaedo 73). _It is apparently alluded to in the
 story of Er, where we are told that 'the pilgrims drank the waters of
@@ -28985,12 +28985,12 @@ older or Spartan type, with some traits borrowed from Athens,_ II, _an
 ideal city in which the citizens have all things in common, and the
 government is carried on by a class of philosopher rulers who are selected
 by merit. These two elements are not perfectly combined; and, as Aristotle
-complains_ (Pol. ii. 5, § 18), _very much is left ill-defined and
+complains_ (Pol. ii. 5,  18), _very much is left ill-defined and
 uncertain._--I. _Like Hellenic cities in general, the number of the
 citizens is not to be great. The size of the state is limited by the
 requirement that 'it shall not be larger or smaller than is consistent
 with unity.'_ [_The 'convenient number' 5040, which is_ {374} _suggested
-in the Laws_ (v. 737), _is regarded by Aristotle_ (Pol. ii. 6, § 6) _as an
+in the Laws_ (v. 737), _is regarded by Aristotle_ (Pol. ii. 6,  6) _as an
 'enormous multitude.'_] _Again, the individual is subordinate to the
 state. When Adeimantus complains of the hard life which the citizens will
 lead, 'like mercenaries in a garrison'_ (4. 419), _he is answered by
@@ -29018,21 +29018,21 @@ also be willing to take their turn when necessary at the helm of state_
 features of Plato's state are_ (1) _the community of property,_ (2) _the
 position of women,_ (3) _the government of philosophers._ (1) _The first_
 (_see s. v._), _though suggested in some measure by the example of Sparta
-or Crete_ [_cp._ Arist. Pol. ii. 5, § 6], _is not known to have been
+or Crete_ [_cp._ Arist. Pol. ii. 5,  6], _is not known to have been
 actually practised anywhere in Hellas, unless possibly among such a body
 as the Pythagorean brotherhood._ (2) _Nothing in all the Republic was
 probably stranger to his contemporaries than the place which Plato assigns
 to women in the state. The community of wives and children, though
 carefully guarded by him from the charge of licentiousness_ (5. 458 E),
 _would appear worse in Athenian eyes than the traditional 'licence' of the
-Spartan women_ [Arist. Pol. ii. 9, § 5), _which, so far as it really
+Spartan women_ [Arist. Pol. ii. 9,  5), _which, so far as it really
 existed, no doubt arose out of an excessive regard to physical
 considerations in marriage. Again, the equal share in education, in war,
 and in administration which the women are supposed to enjoy in Plato's
 state, was, if not so revolting, quite as contrary to common Hellenic
 sentiment_ [_cp._ Thucyd. ii. 45]. _The Spartan women exercised a great
 influence on public affairs, but this was mainly indirect_ [_cp._ Laws 7.
-806; Arist. Pol. ii. 9, § 8]; _they did not hold office or learn the use
+806; Arist. Pol. ii. 9,  8]; _they did not hold office or learn the use
 of arms. At Athens, as is well known, the women, of the upper classes at
 least, lived in an almost Oriental seclusion, and were wholly absorbed in
 household duties_ (Laws 7. 805 E). (3) _Finally, the government of
@@ -29096,7 +29096,7 @@ Teiresias, alone has understanding among the dead, 3. 386 E.
 
 Telamon, 10. 620 B.
 
-Temperance ([Greek: sôphrosu/nê]), in the state, 3. 389; 4. 430 foll.
+Temperance ([Greek: sophrosu/ne]), in the state, 3. 389; 4. 430 foll.
 [_cp._ Laws 3. 696]; temperance and love, 3. 403 A; fostered in the soul
 by the simple kind of music, _ib._ 404 E, 410 A; a harmony of the soul,
 4. 430, 441 E, 442 D, 443 (cp. 9. 591 D, _and_ Laws 2. 653 B); one of the
@@ -29126,7 +29126,7 @@ Theseus, the tale of, and Peirithous not permitted, 3. 391 C.
 Thetis, not to be slandered, 2. 381 D; {376} her accusation of Apollo,
 _ib._ 383 A.
 
-Thirst, 4. 437 E, 439; an inanition ([Greek: ke/nôsis]) of the body, 9.
+Thirst, 4. 437 E, 439; an inanition ([Greek: ke/nosis]) of the body, 9.
 585 A.
 
 Thracians, procession of, in honour of Bendis, 1. 327 A; characterised by
@@ -29297,7 +29297,7 @@ by men to be happy, 1. 354; 2. 364 A; 3. 392 B (cp. 8. 545 A, _and_ Gorg.
 
 Wine, lovers of, 5. 475 A.
 
-Wisdom ([Greek: sophi/a, phro/nêsis]) and injustice, 1. 349, 350; in the
+Wisdom ([Greek: sophi/a, phro/nesis]) and injustice, 1. 349, 350; in the
 state, 4. 428; akin to truth, 6. 485 D; the power of, 7. 518, 519; the
 only virtue which is innate in us, _ib._ 518 E.
 
@@ -29358,7 +29358,7 @@ Zeus, his treatment of his father, 2. 377 E; throws Hephaestus from
 heaven, _ib._ 378 D;--Achilles descended from, 3. 391 C;--did not cause
 the violation of the treaty in the Trojan War, or the strife of the gods,
 2. 379 E; or send the lying dream to Agamemnon, _ib._ 383 A; or lust for
-Herè, 3. 390 B; ought not to have been described by Homer as lamenting for
+Here, 3. 390 B; ought not to have been described by Homer as lamenting for
 Achilles and Sarpedon, _ib._ 388 C;--Lycaean Zeus, 8. 565 D;--Olympian
 Zeus, 9. 583 B.
 
@@ -29398,11 +29398,11 @@ In section 414 C, the third edition closes a parenthesis with a comma, thus
 ,); the comma has been deleted as in earlier editions.
 
 In the Index, s.v. Aglaion, the name has been made consistent with the
-text; it reads Aglaon in the 3rd edition. S.v. Athené, Acheans has been
+text; it reads Aglaon in the 3rd edition. S.v. Athene, Acheans has been
 changed to Achaeans to maintain consistency, s.v. Festival, Bendidaea
 has been changed to Bendidea, and s.v. Luxury, Lycean has been changed to
 Lycaean, for the same reason. Various other inconsistencies have been left
-untouched (e.g. [Arist. Pol. ii. 9, § 5) in the Index in the article on
+untouched (e.g. [Arist. Pol. ii. 9,  5) in the Index in the article on
 State; italicising of supra, etc.).
 
 In the Index also, a reference, s.v. Intoxication, to Drinking fails to
@@ -29433,7 +29433,7 @@ Introduction and each Book of the translation.
 Greek has been transliterated in full: ) is used for smooth breathing; (
 for hard; + for diaeresis; / for acute accent; \ for grave; = for
 circumflex; | for iota subscript; ch is used for chi, ph for phi, ps for
-psi, th for theta; ê for eta and ô for omega; u is used for upsilon in all
+psi, th for theta; e for eta and o for omega; u is used for upsilon in all
 cases.
 
 
@@ -29442,7 +29442,7 @@ cases.
 
     
 
-Updated editions will replace the previous one—the old editions will
+Updated editions will replace the previous one-the old editions will
 be renamed.
 
 Creating the works from print editions not protected by U.S. copyright
@@ -29451,7 +29451,7 @@ so the Foundation (and you!) can copy and distribute it in the United
 States without permission and without paying copyright
 royalties. Special rules, set forth in the General Terms of Use part
 of this license, apply to copying and distributing Project
-Gutenberg™ electronic works to protect the PROJECT GUTENBERG™
+GutenbergTM electronic works to protect the PROJECT GUTENBERGTM
 concept and trademark. Project Gutenberg is a registered trademark,
 and may not be used if you charge for an eBook, except by following
 the terms of the trademark license, including paying royalties for use
@@ -29459,7 +29459,7 @@ of the Project Gutenberg trademark. If you do not charge anything for
 copies of this eBook, complying with the trademark license is very
 easy. You may use this eBook for nearly any purpose such as creation
 of derivative works, reports, performances and research. Project
-Gutenberg eBooks may be modified and printed and given away—you may
+Gutenberg eBooks may be modified and printed and given away-you may
 do practically ANYTHING in the United States with eBooks not protected
 by U.S. copyright law. Redistribution is subject to the trademark
 license, especially commercial redistribution.
@@ -29467,14 +29467,14 @@ license, especially commercial redistribution.
 
 START: FULL LICENSE
 
-THE FULL PROJECT GUTENBERG™ LICENSE
+THE FULL PROJECT GUTENBERGTM LICENSE
 
 PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
 
-To protect the Project Gutenberg™ mission of promoting the free
+To protect the Project GutenbergTM mission of promoting the free
 distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase “Project
-Gutenberg”), you agree to comply with all the terms of the Full
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full
 Project Gutenberg License available with this file or online at
 www.gutenberg.org/license.
 
@@ -29492,7 +29492,7 @@ Project Gutenberg electronic work and you do not agree to be bound
 by the terms of this agreement, you may obtain a refund from the person
 or entity to whom you paid the fee as set forth in paragraph 1.E.8.
 
-1.B. “Project Gutenberg” is a registered trademark. It may only be
+1.B. "Project Gutenberg" is a registered trademark. It may only be
 used on or associated in any way with an electronic work by people who
 agree to be bound by the terms of this agreement. There are a few
 things that you can do with most Project Gutenberg electronic works
@@ -29502,8 +29502,8 @@ Gutenberg electronic works if you follow the terms of this
 agreement and help preserve free future access to Project Gutenberg
 electronic works. See paragraph 1.E below.
 
-1.C. The Project Gutenberg Literary Archive Foundation (“the
-Foundation” or PGLAF), owns a compilation copyright in the collection
+1.C. The Project Gutenberg Literary Archive Foundation ("the
+Foundation" or PGLAF), owns a compilation copyright in the collection
 of Project Gutenberg electronic works. Nearly all the individual
 works in the collection are in the public domain in the United
 States. If an individual work is unprotected by copyright law in the
@@ -29534,14 +29534,14 @@ country other than the United States.
 1.E.1. The following sentence, with active links to, or other
 immediate access to, the full Project Gutenberg License must appear
 prominently whenever any copy of a Project Gutenberg work (any work
-on which the phrase “Project Gutenberg” appears, or with which the
-phrase “Project Gutenberg” is associated) is accessed, displayed,
+on which the phrase "Project Gutenberg" appears, or with which the
+phrase "Project Gutenberg" is associated) is accessed, displayed,
 performed, viewed, copied or distributed:
 
     This eBook is for the use of anyone anywhere in the United States and most
     other parts of the world at no cost and with almost no restrictions
     whatsoever. You may copy it, give it away or re-use it under the terms
-    of the Project Gutenberg™ License included with this eBook or online
+    of the Project GutenbergTM License included with this eBook or online
     at www.gutenberg.org. If you
     are not located in the United States, you will have to check the laws
     of the country where you are located before using this eBook.
@@ -29551,8 +29551,8 @@ derived from texts not protected by U.S. copyright law (does not
 contain a notice indicating that it is posted with permission of the
 copyright holder), the work can be copied and distributed to anyone in
 the United States without paying any fees or charges. If you are
-redistributing or providing access to a work with the phrase “Project
-Gutenberg” associated with or appearing on the work, you must comply
+redistributing or providing access to a work with the phrase "Project
+Gutenberg" associated with or appearing on the work, you must comply
 either with the requirements of paragraphs 1.E.1 through 1.E.7 or
 obtain permission for the use of the work and the Project Gutenberg
 trademark as set forth in paragraphs 1.E.8 or 1.E.9.
@@ -29579,12 +29579,12 @@ Gutenberg License.
 compressed, marked up, nonproprietary or proprietary form, including
 any word processing or hypertext form. However, if you provide access
 to or distribute copies of a Project Gutenberg work in a format
-other than “Plain Vanilla ASCII” or other format used in the official
+other than "Plain Vanilla ASCII" or other format used in the official
 version posted on the official Project Gutenberg website
 (www.gutenberg.org), you must, at no additional cost, fee or expense
 to the user, provide a copy, a means of exporting a copy, or a means
-of obtaining a copy upon request, of the work in its original “Plain
-Vanilla ASCII” or other form. Any alternate format must include the
+of obtaining a copy upon request, of the work in its original "Plain
+Vanilla ASCII" or other form. Any alternate format must include the
 full Project Gutenberg License as specified in paragraph 1.E.1.
 
 1.E.7. Do not charge a fee for access to, viewing, displaying,
@@ -29595,7 +29595,7 @@ unless you comply with paragraph 1.E.8 or 1.E.9.
 access to or distributing Project Gutenberg electronic works
 provided that:
 
-    • You pay a royalty fee of 20% of the gross profits you derive from
+     You pay a royalty fee of 20% of the gross profits you derive from
         the use of Project Gutenberg works calculated using the method
         you already use to calculate your applicable taxes. The fee is owed
         to the owner of the Project Gutenberg trademark, but he has
@@ -29605,31 +29605,31 @@ provided that:
         legally required to prepare) your periodic tax returns. Royalty
         payments should be clearly marked as such and sent to the Project
         Gutenberg Literary Archive Foundation at the address specified in
-        Section 4, “Information about donations to the Project Gutenberg
-        Literary Archive Foundation.”
+        Section 4, "Information about donations to the Project Gutenberg
+        Literary Archive Foundation."
     
-    • You provide a full refund of any money paid by a user who notifies
+     You provide a full refund of any money paid by a user who notifies
         you in writing (or by e-mail) within 30 days of receipt that s/he
-        does not agree to the terms of the full Project Gutenberg™
+        does not agree to the terms of the full Project GutenbergTM
         License. You must require such a user to return or destroy all
         copies of the works possessed in a physical medium and discontinue
-        all use of and all access to other copies of Project Gutenberg™
+        all use of and all access to other copies of Project GutenbergTM
         works.
     
-    • You provide, in accordance with paragraph 1.F.3, a full refund of
+     You provide, in accordance with paragraph 1.F.3, a full refund of
         any money paid for a work or a replacement copy, if a defect in the
         electronic work is discovered and reported to you within 90 days of
         receipt of the work.
     
-    • You comply with all other terms of this agreement for free
-        distribution of Project Gutenberg™ works.
+     You comply with all other terms of this agreement for free
+        distribution of Project GutenbergTM works.
     
 
 1.E.9. If you wish to charge a fee or distribute a Project
-Gutenberg™ electronic work or group of works on different terms than
+GutenbergTM electronic work or group of works on different terms than
 are set forth in this agreement, you must obtain permission in writing
 from the Project Gutenberg Literary Archive Foundation, the manager of
-the Project Gutenberg™ trademark. Contact the Foundation as set
+the Project GutenbergTM trademark. Contact the Foundation as set
 forth in Section 3 below.
 
 1.F.
@@ -29637,19 +29637,19 @@ forth in Section 3 below.
 1.F.1. Project Gutenberg volunteers and employees expend considerable
 effort to identify, do copyright research on, transcribe and proofread
 works not protected by U.S. copyright law in creating the Project
-Gutenberg™ collection. Despite these efforts, Project Gutenberg™
+GutenbergTM collection. Despite these efforts, Project GutenbergTM
 electronic works, and the medium on which they may be stored, may
-contain “Defects,” such as, but not limited to, incomplete, inaccurate
+contain "Defects," such as, but not limited to, incomplete, inaccurate
 or corrupt data, transcription errors, a copyright or other
 intellectual property infringement, a defective or damaged disk or
 other medium, a computer virus, or computer codes that damage or
 cannot be read by your equipment.
 
-1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right
-of Replacement or Refund” described in paragraph 1.F.3, the Project
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
 Gutenberg Literary Archive Foundation, the owner of the Project
-Gutenberg™ trademark, and any other party distributing a Project
-Gutenberg™ electronic work under this agreement, disclaim all
+GutenbergTM trademark, and any other party distributing a Project
+GutenbergTM electronic work under this agreement, disclaim all
 liability to you for damages, costs and expenses, including legal
 fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
 LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
@@ -29673,7 +29673,7 @@ the second copy is also defective, you may demand a refund in writing
 without further opportunities to fix the problem.
 
 1.F.4. Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you ‘AS-IS’, WITH NO
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
 OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
 LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
 
@@ -29688,9 +29688,9 @@ remaining provisions.
 
 1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
 trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg™ electronic works in
+providing copies of Project GutenbergTM electronic works in
 accordance with this agreement, and any volunteers associated with the
-production, promotion and distribution of Project Gutenberg™
+production, promotion and distribution of Project GutenbergTM
 electronic works, harmless from all liability, costs and expenses,
 including legal fees, that arise directly or indirectly from any of
 the following which you do or cause to occur: (a) distribution of this
@@ -29707,7 +29707,7 @@ exists because of the efforts of hundreds of volunteers and donations
 from people in all walks of life.
 
 Volunteers and financial support to provide volunteers with the
-assistance they need are critical to reaching Project Gutenberg’s
+assistance they need are critical to reaching Project Gutenberg's
 goals and ensuring that the Project Gutenberg collection will
 remain freely available for generations to come. In 2001, the Project
 Gutenberg Literary Archive Foundation was created to provide a secure
@@ -29721,20 +29721,20 @@ Section 3. Information about the Project Gutenberg Literary Archive Foundation
 The Project Gutenberg Literary Archive Foundation is a non-profit
 501(c)(3) educational corporation organized under the laws of the
 state of Mississippi and granted tax exempt status by the Internal
-Revenue Service. The Foundation’s EIN or federal tax identification
+Revenue Service. The Foundation's EIN or federal tax identification
 number is 64-6221541. Contributions to the Project Gutenberg Literary
 Archive Foundation are tax deductible to the full extent permitted by
-U.S. federal laws and your state’s laws.
+U.S. federal laws and your state's laws.
 
-The Foundation’s business office is located at 41 Watchung Plaza #516,
+The Foundation's business office is located at 41 Watchung Plaza #516,
 Montclair NJ 07042, USA, +1 (862) 621-9288. Email contact links and up
-to date contact information can be found at the Foundation’s website
+to date contact information can be found at the Foundation's website
 and official page at www.gutenberg.org/contact
 
 Section 4. Information about Donations to the Project Gutenberg
 Literary Archive Foundation
 
-Project Gutenberg™ depends upon and cannot survive without widespread
+Project GutenbergTM depends upon and cannot survive without widespread
 public support and donations to carry out its mission of
 increasing the number of public domain and licensed works that can be
 freely distributed in machine-readable form accessible by the widest

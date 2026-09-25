@@ -13,6 +13,13 @@
 #define DECRYPT_MODE 0
 #define OAEP_HASH_LEN 32  /* SHA-256 = 32 bytes */
 
+static double agora_ms(void)
+{
+    struct timespec ts;
+    clock_gettime(CLOCK_MONOTONIC, &ts);
+    return ts.tv_sec * 1000.0 + ts.tv_nsec / 1000000.0;
+}
+
 static void print_openssl_error(const char *message)
 {
     fprintf(stderr, "%s\n", message);
@@ -84,9 +91,10 @@ error:
     return NULL;
 }
 
-static int rsa_encrypt(FILE *input, FILE *output, EVP_PKEY *key)
+static int rsa_encrypt(FILE *input, FILE *output, EVP_PKEY *key, double *tempo_ms)
 {
     EVP_PKEY_CTX *ctx = create_rsa_context(key, ENCRYPT_MODE);
+    *tempo_ms = 0.0;
     if (!ctx)
         return 0;
 
@@ -125,12 +133,11 @@ static int rsa_encrypt(FILE *input, FILE *output, EVP_PKEY *key)
     while ((bytes_read = fread(plain, 1, plain_block_size, input)) > 0) {
         size_t cipher_len = rsa_size;
 
-        if (EVP_PKEY_encrypt(
-                ctx,
-                cipher,
-                &cipher_len,
-                plain,
-                bytes_read) <= 0) {
+        double inicio = agora_ms();
+        int ok = EVP_PKEY_encrypt(ctx, cipher, &cipher_len, plain, bytes_read);
+        *tempo_ms += agora_ms() - inicio;
+
+        if (ok <= 0) {
             print_openssl_error("Erro durante a criptografia RSA");
             free(plain);
             free(cipher);
@@ -161,9 +168,10 @@ static int rsa_encrypt(FILE *input, FILE *output, EVP_PKEY *key)
     return 1;
 }
 
-static int rsa_decrypt(FILE *input, FILE *output, EVP_PKEY *key)
+static int rsa_decrypt(FILE *input, FILE *output, EVP_PKEY *key, double *tempo_ms)
 {
     EVP_PKEY_CTX *ctx = create_rsa_context(key, DECRYPT_MODE);
+    *tempo_ms = 0.0;
     if (!ctx)
         return 0;
 
@@ -197,12 +205,11 @@ static int rsa_decrypt(FILE *input, FILE *output, EVP_PKEY *key)
 
         size_t plain_len = rsa_size;
 
-        if (EVP_PKEY_decrypt(
-                ctx,
-                plain,
-                &plain_len,
-                cipher,
-                rsa_size) <= 0) {
+        double inicio = agora_ms();
+        int ok = EVP_PKEY_decrypt(ctx, plain, &plain_len, cipher, rsa_size);
+        *tempo_ms += agora_ms() - inicio;
+
+        if (ok <= 0) {
             print_openssl_error("Erro durante a descriptografia RSA");
             free(cipher);
             free(plain);
@@ -312,23 +319,15 @@ int main(int argc, char *argv[])
         return 1;
     }
 
-    clock_t start = clock();
-
+    double tempo_ms = 0.0;
     int success;
 
     if (mode == ENCRYPT_MODE)
-        success = rsa_encrypt(input, output, key);
+        success = rsa_encrypt(input, output, key, &tempo_ms);
     else
-        success = rsa_decrypt(input, output, key);
+        success = rsa_decrypt(input, output, key, &tempo_ms);
 
-    clock_t end = clock();
-
-    double elapsed = (double)(end - start) / CLOCKS_PER_SEC;
-
-    if (mode == ENCRYPT_MODE)
-        printf("%.9f\n", elapsed);
-    else
-        printf("%.9f\n", elapsed);
+    printf("%.9f\n", tempo_ms);
 
     EVP_PKEY_free(key);
     fclose(input);

@@ -36,17 +36,27 @@ static void print_openssl_error(const char *message)
     ERR_print_errors_fp(stderr);
 }
 
+static double agora_ms(void)
+{
+    struct timespec ts;
+    clock_gettime(CLOCK_MONOTONIC, &ts);
+    return ts.tv_sec * 1000.0 + ts.tv_nsec / 1000000.0;
+}
+
 /*
  * Criptografa todo o conteudo de input usando AES-256-CBC.
  * Retorna 1 em caso de sucesso e 0 em caso de erro.
  */
-int aes_encrypt(FILE *input, FILE *output)
+int aes_encrypt(FILE *input, FILE *output, double *tempo_ms)
 {
     EVP_CIPHER_CTX *ctx = EVP_CIPHER_CTX_new();
     unsigned char input_buffer[BUFFER_SIZE];
     unsigned char output_buffer[BUFFER_SIZE + EVP_MAX_BLOCK_LENGTH];
     size_t bytes_read;
     int output_length;
+    double inicio;
+
+    *tempo_ms = 0.0;
 
     if (ctx == NULL) {
         print_openssl_error("Erro ao criar o contexto AES.");
@@ -61,12 +71,11 @@ int aes_encrypt(FILE *input, FILE *output)
     }
 
     while ((bytes_read = fread(input_buffer, 1, BUFFER_SIZE, input)) > 0) {
-        if (EVP_EncryptUpdate(
-                ctx,
-                output_buffer,
-                &output_length,
-                input_buffer,
-                (int)bytes_read) != 1) {
+        inicio = agora_ms();
+        int ok = EVP_EncryptUpdate(ctx, output_buffer, &output_length, input_buffer, (int)bytes_read);
+        *tempo_ms += agora_ms() - inicio;
+
+        if (ok != 1) {
             print_openssl_error("Erro durante a criptografia AES.");
             EVP_CIPHER_CTX_free(ctx);
             return 0;
@@ -87,7 +96,11 @@ int aes_encrypt(FILE *input, FILE *output)
     }
 
     /* Finaliza a operacao e acrescenta o padding PKCS#7 necessario. */
-    if (EVP_EncryptFinal_ex(ctx, output_buffer, &output_length) != 1) {
+    inicio = agora_ms();
+    int ok_final = EVP_EncryptFinal_ex(ctx, output_buffer, &output_length);
+    *tempo_ms += agora_ms() - inicio;
+
+    if (ok_final != 1) {
         print_openssl_error("Erro ao finalizar a criptografia AES.");
         EVP_CIPHER_CTX_free(ctx);
         return 0;
@@ -108,13 +121,16 @@ int aes_encrypt(FILE *input, FILE *output)
  * Descriptografa todo o conteudo de input usando a mesma chave e o mesmo IV.
  * Retorna 1 em caso de sucesso e 0 em caso de erro.
  */
-int aes_decrypt(FILE *input, FILE *output)
+int aes_decrypt(FILE *input, FILE *output, double *tempo_ms)
 {
     EVP_CIPHER_CTX *ctx = EVP_CIPHER_CTX_new();
     unsigned char input_buffer[BUFFER_SIZE];
     unsigned char output_buffer[BUFFER_SIZE + EVP_MAX_BLOCK_LENGTH];
     size_t bytes_read;
     int output_length;
+    double inicio;
+
+    *tempo_ms = 0.0;
 
     if (ctx == NULL) {
         print_openssl_error("Erro ao criar o contexto AES.");
@@ -128,12 +144,11 @@ int aes_decrypt(FILE *input, FILE *output)
     }
 
     while ((bytes_read = fread(input_buffer, 1, BUFFER_SIZE, input)) > 0) {
-        if (EVP_DecryptUpdate(
-                ctx,
-                output_buffer,
-                &output_length,
-                input_buffer,
-                (int)bytes_read) != 1) {
+        inicio = agora_ms();
+        int ok = EVP_DecryptUpdate(ctx, output_buffer, &output_length, input_buffer, (int)bytes_read);
+        *tempo_ms += agora_ms() - inicio;
+
+        if (ok != 1) {
             print_openssl_error("Erro durante a descriptografia AES.");
             EVP_CIPHER_CTX_free(ctx);
             return 0;
@@ -157,7 +172,11 @@ int aes_decrypt(FILE *input, FILE *output)
      * Finaliza a descriptografia e valida/remove o padding.
      * Se a chave, o IV ou o arquivo estiverem incorretos, esta chamada pode falhar.
      */
-    if (EVP_DecryptFinal_ex(ctx, output_buffer, &output_length) != 1) {
+    inicio = agora_ms();
+    int ok_final = EVP_DecryptFinal_ex(ctx, output_buffer, &output_length);
+    *tempo_ms += agora_ms() - inicio;
+
+    if (ok_final != 1) {
         fprintf(stderr,
                 "Erro ao finalizar a descriptografia: chave/IV incorretos "
                 "ou arquivo cifrado invalido.\n");
@@ -235,17 +254,13 @@ int main(int argc, char *argv[])
         return 1;
     }
 
-    clock_t start = clock();
-
+    double tempo_ms = 0.0;
     int success;
 
-    if (mode == ENCRYPT_MODE) {
-        success = aes_encrypt(input, output);
-    } else {
-        success = aes_decrypt(input, output);
-    }
-
-    clock_t end = clock();
+    if (mode == ENCRYPT_MODE)
+        success = aes_encrypt(input, output, &tempo_ms);
+    else
+        success = aes_decrypt(input, output, &tempo_ms);
 
     fclose(input);
     fclose(output);
@@ -255,12 +270,7 @@ int main(int argc, char *argv[])
         return 1;
     }
 
-    double elapsed = (double)(end - start) / CLOCKS_PER_SEC;
-
-    if (mode == ENCRYPT_MODE)
-        printf("%.9f\n", elapsed);
-    else
-        printf("%.9f\n", elapsed);
+    printf("%.9f\n", tempo_ms);
 
     return 0;
 }
